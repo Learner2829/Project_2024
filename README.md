@@ -1,9 +1,9 @@
 MEMBERS:-
+Yusuf,
 Ashish, 
 Drashti, 
 Jannat, 
-Sanjay, 
-Yusuf.
+Sanjay.
 Rollwala, Gujarat University,
 Ahmedabad.
 
