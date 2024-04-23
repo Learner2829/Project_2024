@@ -86,11 +86,12 @@ if(!(isset($_SESSION["username"]))){
                             <th>File type</th>
                             <th>File size</th>
                             <th>Date</th>
-                            <th>EDIT</th>
+                            <th>Download</th>
                             <th>DELETE</th>
                         </tr>
                     </thead>
                     <tbody>
+                
                         <tr>
                             <td>file1</td>
                             <td>.PDF</td>
@@ -99,86 +100,7 @@ if(!(isset($_SESSION["username"]))){
                             <td><a hred="#">EDIT</a></td>
                             <td><a hred="#">DELTE</a></td>
                         </tr>
-                        <tr>
-                            <td>file1</td>
-                            <td>.PDF</td>
-                            <td>2kB</td>
-                            <td>4/8/2024</td>
-                            <td><a hred="#">EDIT</a></td>
-                            <td><a hred="#">DELTE</a></td>
-                        </tr>
-                        <tr>
-                            <td>file1</td>
-                            <td>.PDF</td>
-                            <td>2kB</td>
-                            <td>4/8/2024</td>
-                            <td><a hred="#">EDIT</a></td>
-                            <td><a hred="#">DELTE</a></td>
-                        </tr>
-                        <tr>
-                            <td>file1</td>
-                            <td>.PDF</td>
-                            <td>2kB</td>
-                            <td>4/8/2024</td>
-                            <td><a hred="#">EDIT</a></td>
-                            <td><a hred="#">DELTE</a></td>
-                        </tr>
-                        <tr>
-                            <td>file1</td>
-                            <td>.PDF</td>
-                            <td>2kB</td>
-                            <td>4/8/2024</td>
-                            <td><a hred="#">EDIT</a></td>
-                            <td><a hred="#">DELTE</a></td>
-                        </tr>
-                        <tr>
-                            <td>file1</td>
-                            <td>.PDF</td>
-                            <td>2kB</td>
-                            <td>4/8/2024</td>
-                            <td><a hred="#">EDIT</a></td>
-                            <td><a hred="#">DELTE</a></td>
-                        </tr>
-                        <tr>
-                            <td>file1</td>
-                            <td>.PDF</td>
-                            <td>2kB</td>
-                            <td>4/8/2024</td>
-                            <td><a hred="#">EDIT</a></td>
-                            <td><a hred="#">DELTE</a></td>
-                        </tr>
-                        <tr>
-                            <td>file2</td>
-                            <td>.txt</td>
-                            <td>4kB</td>
-                            <td>4/8/2024</td>
-                            <td><a hred="#">EDIT</a></td>
-                            <td><a hred="#">DELTE</a></td>
-                        </tr>
-                        <tr>
-                        <td>file2</td>
-                            <td>.txt</td>
-                            <td>4kB</td>
-                            <td>4/8/2024</td>
-                            <td><a hred="#">EDIT</a></td>
-                            <td><a hred="#">DELTE</a></td>
-                        </tr>
-                        <tr>
-                        <td>file2</td>
-                            <td>.txt</td>
-                            <td>4kB</td>
-                            <td>4/8/2024</td>
-                            <td><a hred="#">EDIT</a></td>
-                            <td><a hred="#">DELTE</a></td>
-                        </tr>
-                        <tr>
-                        <td>file2</td>
-                            <td>.txt</td>
-                            <td>4kB</td>
-                            <td>4/8/2024</td>
-                            <td><a hred="#">EDIT</a></td>
-                            <td><a hred="#">DELTE</a></td>
-                        </tr>
+                        
                         <!-- Add more rows here -->
                     </tbody>
                 </table>
